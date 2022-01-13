@@ -1,3 +1,5 @@
 # ENG3810 Module 1
 
-Definition goes here. 
+I would define technical writing as coding or writing for technical communication. I can see this field of study used for composing for scientific papers in the medical field, scholarly journals, online manuals, or other technical documents such as reviews and reports for large software organizations.
+
+So far, my experience with Github is interesting. I'm not the most advanced when it comes to writing online or technical documents. I facilitated my learning by exploring Github in my free time. I played around with the different features to see what I can do. Then, I looked at external sources such as tutorials and videos, so I can better understand how to use the software. Creating a folder within a repository was the most confusing, because I did not initally understand the use and purpose of the forward slash. However, the instructions in class helped me understand. Some information I would need to make the documentation less confusing is more step-by-step instruction on how to create and edit different markdown syntax. I'm a visual learner so step-by-step instruction is the most helpful. Otherwise, I enjoyed what I've learned so far. 
