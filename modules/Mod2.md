@@ -1,5 +1,3 @@
-## Heading 
-
 # Temple Transcript Request
 ## What is an official transcript?
 
