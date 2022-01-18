@@ -35,4 +35,4 @@ Table
 |item 3|item 4|
 
 
-![Temple University Logo](
+![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Temple_University_logo.svg/1280px-Temple_University_logo.svg.png)
