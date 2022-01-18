@@ -1,4 +1,4 @@
-# Temple Transcript Request Text
+# Temple Transcript Request
 ### What is an official transcript?
 An official transcript is your certified academic record.  An official transcript displays the terms you attended, graded courses, academic programs, and other relevant academic information. 
 
