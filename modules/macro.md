@@ -27,12 +27,40 @@
 <p>1. item 1</p>
 <p>2. item 1</p>
 
-Table
+Table 1
 
-|col 1|col2|
-|-----|-----|
-|item 1|item 2|
-|item 3|item 4|
+|col1|col2|col3|
+|-----|-----|-----|
+|item 1|item 2|item|
+|item 3|item 4|item|
 
+Table 2
+
+| col1 | col2 | col3 | col4 | col5 |
+|------|------|------|------|------|
+| 1    | 2    | 3    | 4    | 5    |
+| 6    | 7    | 8    | 9    | 10   |
+| 11   | 12   | 13   | 14   | 15   |
 
 ![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Temple_University_logo.svg/1280px-Temple_University_logo.svg.png)
+
+### Microstructures
+
+#### Bold
+
+This is how to **bold** text.
+
+This is how to <strong>bold</strong> text. 
+
+#### Italics
+
+This is how to *italicize* text. 
+
+This is how to <em>italicize</em> text
+
+#### Code
+
+```
+import spacy
+import em_core_web_sm
+```
