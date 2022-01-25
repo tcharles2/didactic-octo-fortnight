@@ -1,10 +1,13 @@
 # Temple Transcript Request
+
 ### What is an official transcript?
 An official transcript is your certified academic record.  An official transcript displays the terms you attended, graded courses, academic programs, and other relevant academic information. 
 
 Current students, former students and alumni can place an order for an official paper transcript or an electronic transcript (eTranscript).
 
-***Unofficial transcript:***
+### Unofficial transcript
+
+---
 
 Office of the University Registrar does not provide copies of unofficial transcripts. Unofficial transcripts are available for review in Self-Service Banner for current students and alumni.
 
@@ -13,6 +16,9 @@ Transcript key explaining the grading system is available for download.
  
 
 ### Student Responsibility
+
+---
+
 Check with the recipient regarding how they would like to receive your transcript.
 
 You must provide a valid e-mail address or a mailing address for the recipient if you are not sending the transcript to an In-Network recipient.
