@@ -10,6 +10,6 @@
 
 <img width="1680" alt="Screen Shot 2022-01-25 at 1 35 36 PM" src="https://user-images.githubusercontent.com/97537581/151045807-9b7d2d0e-96b9-4552-a2ae-c75e7497e7f5.png">
 
-3. Once the file is created, scroll down to the bottom of the page and select "Commite Changes." This will save your new file within your newly created folder.
+3. Once the file is created, scroll down to the bottom of the page and select "Commit New File." This will save your new file within your newly created folder.
 
 <img width="1680" alt="Screen Shot 2022-01-25 at 1 36 13 PM" src="https://user-images.githubusercontent.com/97537581/151046008-432ee37c-f9a0-4d19-ab2d-7c98abbe373c.png">
